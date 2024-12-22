@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HENRI\\source\\repos\\Younic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{068D6BEC-7ACB-4E43-9DD9-0AFF5C5EF4AA}|Younic\\Younic.csproj|c:\\users\\henri\\source\\repos\\younic\\younic\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068D6BEC-7ACB-4E43-9DD9-0AFF5C5EF4AA}|Younic\\Younic.csproj|solutionrelative:younic\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068D6BEC-7ACB-4E43-9DD9-0AFF5C5EF4AA}|Younic\\Younic.csproj|c:\\users\\henri\\source\\repos\\younic\\younic\\gameconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068D6BEC-7ACB-4E43-9DD9-0AFF5C5EF4AA}|Younic\\Younic.csproj|solutionrelative:younic\\gameconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068D6BEC-7ACB-4E43-9DD9-0AFF5C5EF4AA}|Younic\\Younic.csproj|c:\\users\\henri\\source\\repos\\younic\\younic\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068D6BEC-7ACB-4E43-9DD9-0AFF5C5EF4AA}|Younic\\Younic.csproj|solutionrelative:younic\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068D6BEC-7ACB-4E43-9DD9-0AFF5C5EF4AA}|Younic\\Younic.csproj|c:\\users\\henri\\source\\repos\\younic\\younic\\saveloadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068D6BEC-7ACB-4E43-9DD9-0AFF5C5EF4AA}|Younic\\Younic.csproj|solutionrelative:younic\\saveloadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068D6BEC-7ACB-4E43-9DD9-0AFF5C5EF4AA}|Younic\\Younic.csproj|c:\\users\\henri\\source\\repos\\younic\\younic\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068D6BEC-7ACB-4E43-9DD9-0AFF5C5EF4AA}|Younic\\Younic.csproj|solutionrelative:younic\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068D6BEC-7ACB-4E43-9DD9-0AFF5C5EF4AA}|Younic\\Younic.csproj|c:\\users\\henri\\source\\repos\\younic\\younic\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068D6BEC-7ACB-4E43-9DD9-0AFF5C5EF4AA}|Younic\\Younic.csproj|solutionrelative:younic\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068D6BEC-7ACB-4E43-9DD9-0AFF5C5EF4AA}|Younic\\Younic.csproj|c:\\users\\henri\\source\\repos\\younic\\younic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068D6BEC-7ACB-4E43-9DD9-0AFF5C5EF4AA}|Younic\\Younic.csproj|solutionrelative:younic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\HENRI\\source\\repos\\Younic\\Younic\\Game.cs",
+              "RelativeDocumentMoniker": "Younic\\Game.cs",
+              "ToolTip": "C:\\Users\\HENRI\\source\\repos\\Younic\\Younic\\Game.cs",
+              "RelativeToolTip": "Younic\\Game.cs",
+              "ViewState": "AgIAAB4BAAAAAAAAAAAcwCYBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T16:20:55.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameConfig.cs",
+              "DocumentMoniker": "C:\\Users\\HENRI\\source\\repos\\Younic\\Younic\\GameConfig.cs",
+              "RelativeDocumentMoniker": "Younic\\GameConfig.cs",
+              "ToolTip": "C:\\Users\\HENRI\\source\\repos\\Younic\\Younic\\GameConfig.cs",
+              "RelativeToolTip": "Younic\\GameConfig.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T16:16:54.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "C:\\Users\\HENRI\\source\\repos\\Younic\\Younic\\Shop.cs",
+              "RelativeDocumentMoniker": "Younic\\Shop.cs",
+              "ToolTip": "C:\\Users\\HENRI\\source\\repos\\Younic\\Younic\\Shop.cs",
+              "RelativeToolTip": "Younic\\Shop.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwDoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T16:16:31.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SaveLoadManager.cs",
+              "DocumentMoniker": "C:\\Users\\HENRI\\source\\repos\\Younic\\Younic\\SaveLoadManager.cs",
+              "RelativeDocumentMoniker": "Younic\\SaveLoadManager.cs",
+              "ToolTip": "C:\\Users\\HENRI\\source\\repos\\Younic\\Younic\\SaveLoadManager.cs",
+              "RelativeToolTip": "Younic\\SaveLoadManager.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAIwCIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T16:16:05.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\HENRI\\source\\repos\\Younic\\Younic\\Player.cs",
+              "RelativeDocumentMoniker": "Younic\\Player.cs",
+              "ToolTip": "C:\\Users\\HENRI\\source\\repos\\Younic\\Younic\\Player.cs",
+              "RelativeToolTip": "Younic\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T16:15:42.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "C:\\Users\\HENRI\\source\\repos\\Younic\\Younic\\Monster.cs",
+              "RelativeDocumentMoniker": "Younic\\Monster.cs",
+              "ToolTip": "C:\\Users\\HENRI\\source\\repos\\Younic\\Younic\\Monster.cs",
+              "RelativeToolTip": "Younic\\Monster.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T16:15:17.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HENRI\\source\\repos\\Younic\\Younic\\Program.cs",
+              "RelativeDocumentMoniker": "Younic\\Program.cs",
+              "ToolTip": "C:\\Users\\HENRI\\source\\repos\\Younic\\Younic\\Program.cs",
+              "RelativeToolTip": "Younic\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T12:43:22.917Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
